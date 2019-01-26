@@ -1,0 +1,5 @@
+models/*
+images/*
+output/*
+epochs/*
+__pycache__/*
